@@ -1,5 +1,5 @@
 <h1 align="center">
-   📊 Portifólio Business Intelligence. 📊
+   📊 Portfólio Business Intelligence. 📊
 </h1>
 
 <p align="center">Projetinho para praticar meus dashboards.</p>
