@@ -6,7 +6,7 @@
 
 <hr>
 
-Ficou interessado em conhecer o projeto? [clique aqui](https://devjoelfranco.github.io/PortifolioBI/)
+Ficou interessado em conhecer o projeto? [clique aqui](https://devjoelfranco.github.io/PortfolioBI/)
 
 <hr>
 
